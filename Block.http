@@ -1,0 +1,6 @@
+@Block_HostAddress = http://localhost:5105
+
+GET {{Block_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
